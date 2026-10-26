@@ -1,6 +1,8 @@
 # Heart Disease Prediction Using Neural Networks
 
-This project applies various optimization techniques to train a neural network for predicting heart disease. The dataset contains attributes related to heart health and a binary target indicating the presence of heart disease.
+> **Educational project only:** this model is not clinically validated and must not be used to diagnose, treat, or make medical decisions. Results are limited to the dataset and experimental setup described here.
+
+This project compares optimization techniques for a neural-network classification task on a public heart-disease dataset. It is an educational experiment, not a clinical prediction service. The dataset contains attributes related to heart health and a binary target indicating the presence of heart disease.
 
 ## Objectives
 - Compare the performance of four optimization techniques: Gradient Descent, Genetic Algorithm, Simulated Annealing, and Randomized Hill Climbing.
